@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Resposive-React-Site/static/css/main.489bd13d.css",
+    "main.js": "/Resposive-React-Site/static/js/main.fd59dad6.js",
+    "static/media/marketing.jpg": "/Resposive-React-Site/static/media/marketing.f629aa392c4ff105f747.jpg",
+    "static/media/app.jpeg": "/Resposive-React-Site/static/media/app.8714f36598ad2ce812b5.jpeg",
+    "static/media/android.jpeg": "/Resposive-React-Site/static/media/android.ee1d95083516dda0d669.jpeg",
+    "static/media/software.jpeg": "/Resposive-React-Site/static/media/software.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.jpeg": "/Resposive-React-Site/static/media/digital.dad8270c838055c62dd3.jpeg",
+    "static/media/s2.jpg": "/Resposive-React-Site/static/media/s2.4b606597dd442025e487.jpg",
+    "static/media/img1.svg": "/Resposive-React-Site/static/media/img1.4558949326fbbd853f2b130b81232940.svg",
+    "static/media/hero-img.png": "/Resposive-React-Site/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "index.html": "/Resposive-React-Site/index.html",
+    "main.489bd13d.css.map": "/Resposive-React-Site/static/css/main.489bd13d.css.map",
+    "main.fd59dad6.js.map": "/Resposive-React-Site/static/js/main.fd59dad6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.489bd13d.css",
+    "static/js/main.fd59dad6.js"
+  ]
+}
